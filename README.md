@@ -1,2 +1,2 @@
 # Sentiment-Analysis-using-BERT
-Aspect Category Sentiment Analysis using BERT on Sem-Eval2014 restaurant dataset
+Aspect Category Sentiment Analysis using BERT and CNN models on Sem-Eval2014 restaurant dataset
